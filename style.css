@@ -54,7 +54,7 @@ font-weight: 700;
 }
 .banner{
     text-align: center;
-   background-image:url('../Images/banner.png') ;
+   background-image:url('./images/banner.png') ;
    background-repeat: no-repeat;
    width: 1170px;
    height: 500px;
@@ -171,7 +171,8 @@ line-height: 26px;
     text-align: center;
 }
 .part-img{
-    background-image: url('../Images/Rectangle 5.png');
+
+    background-image: url('./images/img.png');
     background-repeat: no-repeat;
     width: 573px;
 height: 300px;
@@ -182,7 +183,7 @@ padding: 132px 227px 133px 226px;
 margin-right: 20px;
 }
 .part-img-1{
-    background-image: url('../Images/Rectangle 8.png');
+    background-image: url('./images/Rectangle8.png');
     background-repeat: no-repeat;
     width: 573px;
 height: 300px;
@@ -193,7 +194,7 @@ padding: 132px 227px 133px 226px;
 margin-right: 20px;
 }
 .part-img-2{
-  background-image: url('../Images/Rectangle 6.png'); 
+  background-image: url('./images/Rectangle6.png'); 
   background-repeat: no-repeat;
   width: 573px;
 height: 300px;
@@ -203,7 +204,7 @@ font-weight: 800;
 padding: 125px 130px 126px 130px; 
 }
 .part-img-3{
-    background-image: url('../Images/Rectangle 7.png');
+    background-image: url('./images/Rectangle7.png');
     background-repeat: no-repeat;
     width: 474px;
 height: 286px;
@@ -214,7 +215,7 @@ font-size: 28px;
 font-weight: 800;
 }
 .part-img-4{
-    background-image: url('../Images/Rectangle 9.png');
+    background-image: url('./images/Rectangle9.png');
     background-repeat: no-repeat;
     width: 274px;
 height: 286px;
@@ -240,7 +241,7 @@ font-weight: 800;
     margin: auto;
 }
 .part-5{
-    background-image: url('../Images/Rectangle 11.png');
+    background-image: url('./images/Rectangle11.png');
     background-repeat: no-repeat;
     width: 473px;
 height: 300px;
@@ -252,7 +253,7 @@ font-size: 28px;
 font-weight: 800;
 }
 .part-6{
-    background-image: url('../Images/Rectangle 10.png');
+    background-image: url('./images/Rectangle10.png');
     background-repeat: no-repeat;
     width: 673px;
 flex-shrink: 0;
@@ -343,7 +344,7 @@ background: rgba(233, 68, 68, 0.05);
 }
 .middle-section{
     width: 1170px;
-   background-image: url('../Images/Group 39.png');
+   background-image: url('./images/Group39.png');
    margin: auto;
    height: 500px;
    margin-top: 25px;
@@ -494,7 +495,7 @@ font-size: 20px;
 font-weight: 800;
 }
 .travel-part-2{
-    background-image: url('../Images/Rectangle 8 (1).png'); 
+    background-image: url('./images/Rop.png'); 
     width: 672px;
 height: 422px;
 flex-shrink: 0;
